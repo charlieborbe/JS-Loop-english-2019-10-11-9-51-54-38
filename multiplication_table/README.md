@@ -1,7 +1,6 @@
 ## requirement
 
 Create new index.js file, write program output 9*9 times table. The output is as follows：
-
 ```
 1*1=1
 2*1=2 2*2=4
